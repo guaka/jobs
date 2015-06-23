@@ -17,6 +17,7 @@ Our job submission process is being done transparently and "in the open." If you
 - Copy `job-template.md` into the `jobs` folder
 - Name your compy something like `2015-03-sticker-design-for-lnug.md`
 - Fill out the fields inside the template you just copied
+- Keep one sentence per line (to make git diff cleaner)
 - Submit a pull request
 - Have a margarita or hot chocolate
 
